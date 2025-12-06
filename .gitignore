@@ -1,0 +1,30 @@
+# Flutter
+**/android/**/gradle-wrapper.jar
+**/ios/.generated/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+**/android/**/gradlew
+**/android/**/gradlew.bat
+**/android/**/local.properties
+**/android/**/gradle.properties
+
+# Firebase
+**/firebase_options.dart
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Env files
+**.env*
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
