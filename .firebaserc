@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "notebook-ui-25b9d"
+  },
+  "targets": {
+    "notebook-ui-25b9d": {
+      "hosting": {
+        "dev": [
+          "notes-app-dev-e603d"
+        ],
+        "staging": [
+          "notes-app-staging-e603d"
+        ],
+        "prod": [
+          "notes-app-prod-e603d"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

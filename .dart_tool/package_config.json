@@ -2,6 +2,12 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-92.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
       "name": "_flutterfire_internals",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/_flutterfire_internals-1.3.64",
       "packageUri": "lib/",
@@ -12,6 +18,12 @@
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/amplitude_flutter-4.3.9",
       "packageUri": "lib/",
       "languageVersion": "3.3"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-9.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
     },
     {
       "name": "args",
@@ -38,10 +50,52 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "build",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/build-4.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "build_config",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/build_config-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "build_daemon",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/build_daemon-4.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "build_runner",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner-2.10.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "built_collection",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/built_collection-5.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "built_value",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/built_value-8.12.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "characters",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "checked_yaml",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/checked_yaml-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
     },
     {
       "name": "clock",
@@ -68,8 +122,20 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "code_builder",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/code_builder-4.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
       "name": "collection",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -92,6 +158,12 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "dart_style",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/dart_style-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    },
+    {
       "name": "equatable",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.7",
       "packageUri": "lib/",
@@ -108,6 +180,12 @@
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "3.7"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "file_picker",
@@ -242,6 +320,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_dotenv",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_dotenv-5.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_lints",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-5.0.0",
       "packageUri": "lib/",
@@ -266,10 +350,28 @@
       "languageVersion": "3.8"
     },
     {
+      "name": "glob",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/glob-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "graphs",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/graphs-2.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "http",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.6.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "http_multi_server",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/http_multi_server-3.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
     },
     {
       "name": "http_parser",
@@ -332,10 +434,22 @@
       "languageVersion": "3.6"
     },
     {
+      "name": "io",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/io-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "jni",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/jni-0.14.2",
       "packageUri": "lib/",
       "languageVersion": "3.3"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "leak_tracker",
@@ -360,6 +474,12 @@
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.6"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/logging-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "matcher",
@@ -470,6 +590,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "pool",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/pool-1.5.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "provider",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.5+1",
       "packageUri": "lib/",
@@ -482,6 +608,12 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "pubspec_parse",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/pubspec_parse-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
       "name": "sentry",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/sentry-9.8.0",
       "packageUri": "lib/",
@@ -490,6 +622,18 @@
     {
       "name": "sentry_flutter",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/sentry_flutter-9.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "shelf",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/shelf-1.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "shelf_web_socket",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/shelf_web_socket-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -516,6 +660,12 @@
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "3.3"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/stream_transform-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
     },
     {
       "name": "string_scanner",
@@ -560,10 +710,28 @@
       "languageVersion": "3.5"
     },
     {
+      "name": "watcher",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/watcher-1.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "web",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "web_socket",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "web_socket_channel",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
     },
     {
       "name": "win32",
@@ -576,6 +744,12 @@
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.3"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "notebook_ui",
